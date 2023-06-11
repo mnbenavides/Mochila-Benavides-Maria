@@ -1,0 +1,20 @@
+DESARROLLO
+
+1. ¿POR QUÉ EL LENGUAJE DE PROGRAMACIÓN SÓLO PUEDE UTILIZARSE EN ALGUNOS SISTEMAS OPERATIVOS Y 
+EN OTROS NO?
+
+Rta:// Porque un lenguaje de programación compila a lenguaje ensamblador el cual es
+ejecutado por el sistema operativo, este lenguaje de ensamblador depende de 2 cosas como lo
+es la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+2. ¿QUÉ TIPO DE MÁQUINA ES VIRTUAL BOX?
+
+Rta:// Máquina virtual de proceso
+
+3. SI TENGO MAS DE UNA MÁQUINA VIRTUAL INSTALADA, Y UNA SE ROMPE, ¿ ESTO AFECTA A LAS DEMÁS ?
+¿POR QUE?
+
+RTA:// No deberia afectar, ya que virtual box permite la virtualización de cada máquina, 
+es decir tenga su propio entorno virtualizado, incluyendo sistema operativo, recursos y 
+configuración. Esto significa que si una máquina vrtual se corrompe o presente un fallo,
+ese problema se limita a esa máquina virtual en particular y no se extiende a las demás. 
