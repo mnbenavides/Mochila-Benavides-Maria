@@ -1,0 +1,52 @@
+Telnet:
+a) Pregunta: ¿Cuáles son las ventajas y desventajas de utilizar el protocolo Telnet?
+
+
+          VENTAJAS                        DESVENTAJAS
+------------------------------------------------------------------------
+				  |				
+1. Permite conectarse desde un    |   1. Problemas en la seguridad,ya 
+computador(cliente) para 	  |   que no encripta la información.
+realizartareas como si estuviera  |	
+trabajando en ese computador      |
+(servidor).			  |
+				  |   2. La visualización "gráfica"
+2. Fácil de usar 	          |   como lo es edición de archivos
+				  |   (Ej: nano) es limitado
+--------------------------------------------------------------------------					
+
+
+SSH:
+a) Pregunta: ¿Cuáles son las ventajas y desventajas de utilizar el protocolo SSH?
+
+
+          VENTAJAS                        DESVENTAJAS
+------------------------------------------------------------------------
+				  |				
+1. Permite conectarse desde un    |   1. SSH no puede proteger ataques
+computador(cliente) para 	  |   de otros protocolos
+realizartareas como si estuviera  |	
+trabajando en ese computador      |
+(servidor).			  |
+				  |   2. Aveces es lento
+2. Encripta la información para
+la seguridad.
+--------------------------------------------------------------------------	
+
+
+Diferencias entre SSH y Telnet:
+a) Pregunta: ¿Cuáles son las principales diferencias entre SSH y Telnet?
+
+
+
+          SSH                                TELNET
+------------------------------------------------------------------------
+Puerto: 23		 	      |  Puerto: 22
+Seguridad: Más seguro		      |  Seguridad: Menos seguro
+Uso de banda ancha:Alto  	      |  Uno de banda ancha: Bajo
+Transmisión de datos: Texto plano     |  Transmisión de datos: Cifrado
+Trabaja en red pública		      |  Trabaja en red privada
+
+--------------------------------------------------------------------------	
+
+
